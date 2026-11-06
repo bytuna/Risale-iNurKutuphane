@@ -1,0 +1,41 @@
+{
+  "shelves": [
+    {
+      "title": "Son Okunanlar",
+      "id": "son-okunanlar",
+      "open": true,
+      "books": []
+    },
+    {
+      "title": "Külliyat",
+      "id": "kulliyat",
+      "open": true,
+      "books": [
+        { "id": "sozler", "title": "SÖZLER", "cover": "covers/sozler.JPG", "text": "books/sozler.json" },
+        { "id": "mektubat", "title": "MEKTUBAT", "cover": "covers/mektubat.JPG", "text": "books/mektubat.json" },
+        { "id": "lemalar", "title": "LEM'ALAR", "cover": "covers/lemalar.JPG", "text": "books/lemalar.json" },
+        { "id": "sualar", "title": "ŞUALAR", "cover": "covers/sualar.JPG", "text": "books/sualar.json" },
+        { "id": "asa-yi-musa", "title": "ASA-YI MUSA", "cover": "covers/asa-yi-musa.JPG", "text": "books/asa-yi-musa.json" },
+        { "id": "barla-lahikasi", "title": "BARLA LAHİKASI", "cover": "covers/barla-lahikasi.JPG", "text": "books/barla-lahikasi.json" },
+        { "id": "kastamonu-lahikasi", "title": "KASTAMONU LAHİKASI", "cover": "covers/kastamonu-lahikasi.JPG", "text": "books/kastamonu-lahikasi.json" },
+        { "id": "emirdag-lahikasi-1", "title": "EMİRDAĞ LAHİKASI 1", "cover": "covers/emirdag-lahikasi.JPG", "text": "books/emirdag-lahikasi-1.json" },
+        { "id": "emirdag-lahikasi-2", "title": "EMİRDAĞ LAHİKASI 2", "cover": "covers/emirdag-lahikasi-2.JPG", "text": "books/emirdag-lahikasi-2.json" },
+        { "id": "isarat-ul-icaz", "title": "İŞÂRÂT-ÜL İCÂZ", "cover": "covers/isaratul-icaz.JPG", "text": "books/isarat-ul-icaz.json" },
+        { "id": "mesnevi", "title": "MESNEVÎ-İ NURİYE", "cover": "covers/mesnevi-i-nuriye.JPG", "text": "books/mesnevi.json" },
+        { "id": "sikke-i-tasdik-i-gaybi", "title": "SİKKE-İ TASDİK-İ GAYBÎ", "cover": "covers/sikke-i-tasdik-i-gaybi.JPG", "text": "books/sikke-i-tasdik-i-gaybi.json" },
+        { "id": "muhakemat", "title": "MUHAKEMAT", "cover": "covers/muhakemat.JPG", "text": "books/muhakemat.json" },
+        { "id": "iman-ve-kufur-muvazeneleri", "title": "İMAN VE KÜFÜR MUVAZENELERİ", "cover": "covers/iman-ve-kufur-muvazeneleri.JPG", "text": "books/iman-ve-kufur-muvazeneleri.json" },
+        { "id": "tarihce-i-hayat", "title": "TARİHÇE-İ HAYAT", "cover": "covers/tarihce-i-hayat.JPG", "text": "books/tarihce-i-hayat.json" }
+      ]
+    },
+    {
+      "title": "Muhtelif Eserler",
+      "id": "muhtelif",
+      "open": false,
+      "books": [
+        { "id": "ornek-muhtelif-1", "title": "Örnek Eser 1", "cover": null, "text": null },
+        { "id": "ornek-muhtelif-2", "title": "Örnek Eser 2", "cover": null, "text": null }
+      ]
+    }
+  ]
+}

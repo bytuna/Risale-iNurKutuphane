@@ -1,0 +1,3 @@
+Kapak resimlerini (jpg/png) bu klasöre koyun ve library.json içindeki "cover" alanında
+"covers/dosyaadi.jpg" şeklinde belirtin. Önerilen oran 2:3 (ör. 600x900 px).
+Dosya bulunamazsa uygulama kitap adıyla otomatik bir kapak çizer.

@@ -1,0 +1,8 @@
+Font Dosyaları Rehberi:
+-----------------------
+Lütfen font dosyalarınızı bu klasöre (app/src/main/assets/fonts/) kopyalayın:
+
+1. fontrln.ttf -> Risale-i Nur Başlık ve Özel Fontu (Resimdeki 'Birinci Söz' vb. başlık fontu)
+2. arabic_uthmantaha.ttf -> Arapça Metin Fontu (Uthman Taha)
+
+Uygulama bu font dosyalarını otomatik olarak algılayıp kullanacaktır.
